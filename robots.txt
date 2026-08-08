@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://horselovershub.net/blog-horselovershub/sitemap.xml
